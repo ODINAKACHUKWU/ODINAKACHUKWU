@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Odinakachukwu Ezeobika</h1>
+<h1 align="left">Hi there 👋, I'm Odinakachukwu Solomon Ezeobika</h1>
 <h3 align="left">A software engineer who is passionate about collaborating with great teams in building tech products that help businesses to be more efficient and provide a better service to the public.</h3>
 
 - 🔭 I’m currently working on **my company's projects, and some personal projects.**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **solomonzbk@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/15GzkoVFyzF68dWblhuKzybj2_MKA1SX7r8jRU4OwT3E/edit?usp=sharing](https://docs.google.com/document/d/15GzkoVFyzF68dWblhuKzybj2_MKA1SX7r8jRU4OwT3E/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/15GzkoVFyzF68dWblhuKzybj2_MKA1SX7r8jRU4OwT3E/edit?usp=sharing](https://docs.google.com/document/d/1-oZwbM4_cW5Czxh8mXYdDLdRejCOHEBXXSs-NfQwwy4/edit?usp=sharing)
 
 - ⚡ Fun fact **When I'm not coding, I listen to music, sing or play my favorite musical instrument - the keyboard. I love to do research, and travel so as to learn new things, gain new experiences, see new places, meet new people, try new foods, and make memories that will last a lifetime.**
 
