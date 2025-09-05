@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my company's projects, and some personal projects.**
 
-- 🌱 I’m currently learning **web accessibility, mobile responsiveness, advanced SQL and PostgreSQL, data structures, and complex algorithms.**
+- 🌱 I’m currently learning **web accessibility, mobile responsiveness, advanced SQL and PostgreSQL, data structures, and algorithms.**
 
 - 👯 I’m looking to collaborate on **open source projects, and potential startup ideas.**
 
